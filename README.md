@@ -1,2 +1,2 @@
 # LearningGit
-for my personal use
+for my personal use Repo
